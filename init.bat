@@ -16,7 +16,7 @@ start https://music.163.com/#/download
 start https://pan.baidu.com/download/#win
 start https://www.nvidia.cn/geforce/drivers/
 start https://www.amd.com/zh-cn/support/download/drivers.html
-
+start https://github.com/Clash-Verge-rev/clash-verge-rev/releases
 
 @REM REM 创建 package 文件夹
 @REM if not exist "package" mkdir package
